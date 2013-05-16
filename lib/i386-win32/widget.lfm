@@ -1,0 +1,25 @@
+object frmWidget: TfrmWidget
+  Left = 592
+  Height = 256
+  Top = 354
+  Width = 361
+  AlphaBlend = True
+  BorderIcons = []
+  BorderStyle = bsNone
+  Caption = 'frmWidget'
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  OnMouseDown = FormMouseDown
+  OnMouseMove = FormMouseMove
+  OnPaint = FormPaint
+  OnResize = FormResize
+  PopupMenu = pmWidget
+  LCLVersion = '1.0.8.0'
+  object pmWidget: TPopupMenu
+    left = 24
+    top = 12
+    object miConfig: TMenuItem
+      Caption = 'Настройки'
+    end
+  end
+end

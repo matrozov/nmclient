@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gadget>
+  <name>NarodMon.ru gadget</name>
+  <version>0.1</version>
+  <author name="Матрозов Олег">
+    <info url="http://narodmon.ru" text="Народный мониторинг" />
+    <logo src="image/icon.png" />
+  </author>
+  <namespace>Матрозов Олег</namespace>
+  <copyright>&#0169; 2013</copyright>
+  <description>Гаджет проекта "Народный мониторинг" (narodmon.ru)</description>
+  <icons>
+    <icon width="64" height="64" src="image/icon.png" />
+  </icons>
+  <hosts>
+    <host name="sidebar">
+      <base type="HTML" apiVersion="1.0.0" src="gadget.html" />
+      <permissions>full</permissions>
+      <platform minPlatformVersion="0.3" />
+    </host>
+  </hosts>
+</gadget>

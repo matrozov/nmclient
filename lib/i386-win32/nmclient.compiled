@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <Compiler Value="D:\Mear\Programs\lazarus\fpc\2.6.2\bin\i386-win32\fpc.exe" Date="1114730022"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -vewnhi -FiD:\Mear\Projects\Narodmon\lib\i386-win32 &quot;-FuD:\Mear\Component\ZLib (lazarus)&quot; -FuD:\Mear\Programs\lazarus\external\lnet\lazaruspackage\lib\i386-win32 -FuD:\Mear\Programs\lazarus\ideintf\units\i386-win32\win32 -FuD:\Mear\Programs\lazarus\lcl\units\i386-win32\win32 -FuD:\Mear\Programs\lazarus\lcl\units\i386-win32 -FuD:\Mear\Programs\lazarus\components\lazutils\lib\i386-win32 -FuD:\Mear\Programs\lazarus\packager\units\i386-win32 -FuD:\Mear\Projects\Narodmon\ -FUD:\Mear\Projects\Narodmon\lib\i386-win32\ -l -dLCL -dLCLwin32 nmclient.lpr"/>
+</CONFIG>
